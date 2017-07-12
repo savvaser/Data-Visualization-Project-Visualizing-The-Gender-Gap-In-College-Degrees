@@ -8,23 +8,23 @@ The data is obtained from The Department of Education Statistics that releases a
 
 Some of the categories used for comparision are:
 
-  Agriculture	
-  Architecture	
-  Art and Performance	
-  Biology	
-  Business	
-  Communications and Journalism	
-  Computer Science	
-  Education	
-  Engineering	
-  English	
-  Foreign Languages
-  Health Professions
-  Math and Statistics	
-  Physical Sciences	
-  Psychology	
-  Public Administration	
-  Social Sciences and History
+  Agriculture,	
+  Architecture,	
+  Art and Performance,	
+  Biology,	
+  Business,	
+  Communications and Journalism,	
+  Computer Science,	
+  Education,	
+  Engineering,	
+  English,
+  Foreign Languages,
+  Health Professions,
+  Math and Statistics,	
+  Physical Sciences,	
+  Psychology,	
+  Public Administration,	
+  Social Sciences and History.
   
 Observations:
 
