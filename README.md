@@ -29,4 +29,4 @@ Some of the categories used for comparision are:
 Observations:
 
 The gender gap in Engineering, Foreign Languages, English, Health Professions, and Education have big gender gaps while the gap in Biology, Social Sciences & History, Business, and Math & Statistics is quite small.
-In addition, the first two degrees in STEM category are dominated by men, while the Psycology and Biology is dominated by women in time. However, there are othe categories like Social Sciences & History, and Business wherethe degree categories are much more balanced. 
+In addition, the first two degrees in STEM category are dominated by men, while the Psychology and Biology is dominated by women in time. However, there are other categories like Social Sciences & History, and Business wherethe degree categories are much more balanced. 
